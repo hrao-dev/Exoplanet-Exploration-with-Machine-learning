@@ -89,13 +89,13 @@ Gradient Boosting
 Gradient Boosting with hypertuning
 ------------------------------------
 
-                        precision    recall  f1-score   support
+                         precision    recall  f1-score   support
 
-     CANDIDATE              0.85      0.79      0.82       422
-     CONFIRMED              0.82      0.85      0.83       450
-     FALSE POSITIVE         0.99      1.00      0.99       876
+     CANDIDATE             0.84      0.80      0.82       422
+     CONFIRMED             0.82      0.85      0.83       450
+     FALSE POSITIVE        0.99      1.00      1.00       876
 
-     accuracy                                   0.91      1748
-     macro avg              0.88      0.88      0.88      1748
-     weighted avg           0.91      0.91      0.91      1748
+     accuracy                                  0.91      1748
+     macro avg             0.88      0.88      0.88      1748
+     weighted avg          0.91      0.91      0.91      1748
 
