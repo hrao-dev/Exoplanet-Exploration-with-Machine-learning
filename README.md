@@ -3,6 +3,8 @@
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
+<img src="https://github.com/the-Coding-Boot-Camp-at-UT/UT-MCC-DATA-PT-01-2020-U-C/blob/master/homework-instructions/21-Machine-Learning/Instructions/Images/exoplanets.jpg" alt="Kepler Exo Planets">
+
 To help process this data, machine learning models, capable of classifying candidate exoplanets from the raw dataset are created as described below:
 
   * The dataset is preprocessed, prior to fitting the model.
